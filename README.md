@@ -3,7 +3,6 @@
  
  ## Background 
 
-My boss came into my office one day and gave me a file with a list of NASDAQ companies. She says, "Dana, I want you to find me the companies that went public on NASDAQ in 2017 and make a portfolio with the stocks of best-performing companies. We have to show the clients why those companies are good to invest, too. Get it done by the meeting on Friday morning."      
 The goal of this project is to analyze my personal porfolio and compare it agianst NASDAQ to visually see how it would perform over the next the next 5yrs. If the performance shows positive growth I can confidently advice a new investor that this would be a solid group of ETF's to invest in.
 
 ## Files
