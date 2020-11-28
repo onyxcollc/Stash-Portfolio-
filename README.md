@@ -3,7 +3,7 @@
  
  ## Background 
 
-The goal of this project is to analyze my personal porfolio and compare it agianst NASDAQ to visually see how it would perform over the next the next 5yrs. If the performance shows positive growth I can confidently advice a new investor that this would be a solid group of ETF's to invest in.
+The goal of this project is to analyze my personal portfolio and compare it agianst NASDAQ to visually see how it would perform over the next the next 5yrs. If the performance shows positive growth I can confidently advice a new investor that this would be a solid group of ETF's to invest in.
 
 ## Files
 * NASDAQ.csv
