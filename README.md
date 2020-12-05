@@ -25,7 +25,7 @@ To provide a profitable portfolio I need to accomplish three main tasks:
 
 3. Visualization: Calculate the cumulative returns and visualize the data for both data frames then compare the cumulative returns of both data frames and determine the perfomrance overtime. 
 
-## Simmulations 
+## Simulations 
 
 
 ![Sim_1](Images/Sim_1.PNG)
@@ -35,17 +35,17 @@ To provide a profitable portfolio I need to accomplish three main tasks:
 
 
 
-# Daily Returns Personal Portfolio PE
+## Daily Returns Personal Portfolio PE
 
 ![Daily PE](Images/Portfolio_PE_Daily_Returns.PNG)
 
-#  Cumulative Personal Portfolio PE & NASDAQ Cumulative
+## Cumulative Personal Portfolio PE & NASDAQ Cumulative
 
 ![Cumu_1](Images/Cumu_1.PNG)
 
 ![Cumu_2](Images/Cumu_2.PNG)
 
 
-# All Cumulative Compared
+## All Cumulative Compared
 
 ![ALL_Cumu](Images/All_Cumu.PNG)
