@@ -49,3 +49,7 @@ To provide a profitable portfolio I need to accomplish three main tasks:
 ## All Cumulative Compared
 
 ![ALL_Cumu](Images/All_Cumu.PNG)
+
+
+## Conclusion 
+My investment choices are doing pretty good compared to the NASDAQ. I will do a follow up wih an anyalysis  in the future the for future results. 
